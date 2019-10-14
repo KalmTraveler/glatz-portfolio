@@ -1,0 +1,22 @@
+{
+	"name": "glatz-portfolio",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"sass": "node-sass -w scss/ -o /Users/Siegfried/Desktop/Portfolio/glatz-portfolio/dist/css/ --recursive"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KalmTraveler/glatz-portfolio.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/KalmTraveler/glatz-portfolio/issues"
+	},
+	"homepage": "https://github.com/KalmTraveler/glatz-portfolio#readme",
+	"dependencies": {
+		"node-sass": "^4.12.0"
+	}
+}
